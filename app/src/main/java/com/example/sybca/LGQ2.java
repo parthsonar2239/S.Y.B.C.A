@@ -23,7 +23,7 @@ public class LGQ2 extends AppCompatActivity implements View.OnClickListener {
         setContentView(R.layout.lgq2);
 
         edt1 = (EditText) findViewById(R.id.edt_amt);
-        edt2 = (EditText) findViewById(R.id.edt_int;
+        edt2 = (EditText) findViewById(R.id.edt_int);
         edt3 = (EditText) findViewById(R.id.edt_n);
 
         txt1= (TextView) findViewById(R.id.txt_si);
